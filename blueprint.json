@@ -18,8 +18,8 @@
 			"cpu": 10,
 			"memory": 256,
 			"essential": true,
-			"containerPort": 443,
-			"hostPort": 443
+			"container_port": 443,
+			"host_port": 443
  		}
 	}
 }
